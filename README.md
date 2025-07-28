@@ -16,7 +16,7 @@
 
 ### 🌸 Tech Stack
 
-```javascript
+
 Languages:   JavaScript, Python, HTML5, CSS3  
 Frameworks:  React.js, Electron
 Tools:       Git, GitHub, VSCode, Canva, Figma  
@@ -36,7 +36,7 @@ From to-do lists to wellness apps & playful UI experiments!
 
 🌐 Portfolio coming soon!
 
-<p align="center"> Made with 💜, curiosity & a sprinkle of chaos 🌙 </p> ```
+<p align="center"> Made with 💜, curiosity & a sprinkle of chaos 🌙 </p> 
 
 ---
 
