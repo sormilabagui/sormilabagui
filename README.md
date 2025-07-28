@@ -36,9 +36,5 @@ From to-do lists to wellness apps & playful UI experiments!
 
 🌐 Portfolio coming soon!
 
-<p align="center"> Made with 💜, curiosity & a sprinkle of chaos 🌙 </p> 
-
----
-
-Made with ☕, 💻, and a bit of chaos ✨  
-— Sormila 🌼
+<p align="center"> Made with 💜,☕, 💻, curiosity & a sprinkle of chaos 🌙 </p>   
+<p align="center">— Sormila 🌼</p>
