@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hey there! 🌸 I'm Sormila</h1>
+<p align="center">
+  <em>A curious coder, creative dreamer & builder of cozy, aesthetic digital spaces.</em>  
+</p>
 
-<!--
-**sormilabagui/sormilabagui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌷 MCA Student | Web Dev & React Enthusiast
+- 🎨 Passionate about turning cute ideas into mini projects
+- 💻 Learning daily — coding, designing, imagining!
+- 🌸 Love cozy UI/UX, fluffy themes, and aesthetic vibes
+
+---
+
+### 🌸 Tech Stack
+
+```javascript
+Languages:   JavaScript, Python, HTML5, CSS3  
+Frameworks:  React.js, Electron
+Tools:       Git, GitHub, VSCode, Canva, Figma  
+
+🧁 My Mini Project Gallery
+A growing collection of tiny React projects — cozy, aesthetic, functional 💖
+
+From to-do lists to wellness apps & playful UI experiments!
+
+🧪 Repo link: sormilabagui/React-to-do
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sormilabagui&show_icons=true&theme=tokyonight" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sormilabagui&theme=tokyonight" /> </p>
+🕊 Let’s Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/sormila-bagui-0ab975372
+
+🌐 Portfolio coming soon!
+
+<p align="center"> Made with 💜, curiosity & a sprinkle of chaos 🌙 </p> ```
+
+---
+
+Made with ☕, 💻, and a bit of chaos ✨  
+— Sormila 🌼
