@@ -29,7 +29,7 @@ From to-do lists to wellness apps & playful UI experiments!
 🧪 [Repo link]: (sormilabagui/React-todo-app)
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sormilabagui&show_icons=true&theme=tokyonight" /> <br> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sormilabagui&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sormilabagui&show_icons=true&theme=tokyonight" /> <br> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?username=sormilabagui&theme=tokyonight" /> </p>
 🕊 Let’s Connect
 
 💼 [LinkedIn]: (https://www.linkedin.com/in/sormila-bagui-0ab975372)
