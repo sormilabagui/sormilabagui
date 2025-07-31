@@ -26,7 +26,7 @@ A growing collection of tiny React projects — cozy, aesthetic, functional 💖
 
 From to-do lists to wellness apps & playful UI experiments!
 
-🧪 Repo link: sormilabagui/React-todo-app
+🧪 Repo link: https://github.com/sormilabagui/React-todo-app/
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sormilabagui&show_icons=true&theme=tokyonight" /> <br> <br> <br> <img src="https://streak-stats.demolab.com?user=sormilabagui&theme=tokyonight" />
