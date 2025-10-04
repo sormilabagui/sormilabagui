@@ -35,7 +35,7 @@ From to-do lists to wellness apps & playful UI experiments!
 
 💼 [LinkedIn]: (https://www.linkedin.com/in/sormila-bagui-0ab975372)
 
-🌐 Portfolio coming soon!
+🌐 Portfolio : https://portofolio-website-lac.vercel.app/
 
 <p align="center"> Made with 💜,☕, 💻, curiosity & a sprinkle of chaos 🌙 </p>   
 <p align="center">— Sormila 🌼</p>
